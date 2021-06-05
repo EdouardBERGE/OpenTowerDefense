@@ -15,5 +15,5 @@ About the engine:
 - dynamic range display for every towers
 - versatile & highly configurable engine
 
-![screenshot](https://github.com/EdouardBERGE/otd/blob/main/screenshot.png)
+![screenshot](https://github.com/EdouardBERGE/OpenTowerDefense/blob/main/screenshot.png)
 
