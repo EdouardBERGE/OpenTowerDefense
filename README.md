@@ -29,10 +29,13 @@ About the engine:
 The game comes with old tools and new tools :)
 
 convgeneric => PNG conversion to CPC binaries
+
 snapexplode => RAM extraction from a CPC emulator snapshot
+
 edsktool    => Import/Export/Creation/modification tool for EDSK
 
 compiletile => Used to create assembly code from sprites
+
 superformat => Native CPC tool to create special floppy format
 
 Thanks to Tom&Jerry for CATaclysme 1.2a tool (CAT'Art creation)
